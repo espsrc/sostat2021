@@ -15,4 +15,4 @@ dependencies:
   - scipy=1.7.2
   - stingray=0.3
   - pip:
-    - jupyterlab_latex
+    - latex
