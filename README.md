@@ -1,2 +1,3 @@
 # sostat2021
-TBC
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyterlab_latex/HEAD)
