@@ -19,3 +19,5 @@ dependencies:
   - stingray=0.3
   - pip:
     - jupyterlab_latex
+    - jupyterlab-link-share
+    - xeus-python
