@@ -7,3 +7,6 @@ test -e test.png && rm test.png
 
 # install JupyterLab extension
 jupyter labextension install @jupyterlab/latex
+
+# generate non minified assets so it's easier to step into the code on Binder
+jupyter lab build --minimize=False
