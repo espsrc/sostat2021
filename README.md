@@ -7,6 +7,7 @@
 
 School webpage: https://www.granadacongresos.com/sostat2021
 
+- [Workshop Tutorials](#workshop-tutorials)
 - [Execution of the tutorials](#execution-of-the-tutorials)
 - [Two alternative ways to execute the tutorials](#two-alternative-ways-to-execute-the-tutorials)
   * [1. In your local machine](#1-in-your-local-machine)
@@ -14,6 +15,22 @@ School webpage: https://www.granadacongresos.com/sostat2021
     + [Get the contents of the school](#get-the-contents-of-the-school)
   * [2. Using the myBinder cloud](#2-using-the-mybinder-cloud)
 - [Credits and acknowledgements](#credits-and-acknowledgements)
+
+# Workshop Tutorials
+
+- Gwendolyn Eadie
+    - [Sampling from distributions with R](tutorials/gwen_probability/sampling_from_distributions_with_R.ipynb)
+
+- Željko Ivezić
+    - [ZIlecture1: Gentle Introduction to Big Data in Astronomy and Basics](tutorials/zeljko/ZIlecture1.ipynb)
+    - [ZIlecture2: Introduction to ML; density estimation and regression](tutorials/zeljko/ZIlecture2.ipynb)
+- Abigail Stevens
+    - [boot_jack_workbook](tutorials/abigail_bootjack/boot_jack_workbook.ipynb) ([solutions](tutorials/abigail_bootjack/boot_jack_solutions.ipynb))
+    - [time_series_workbook](tutorials/abigail_timeseries/time_series_workbook.ipynb) ([solutions](tutorials/abigail_timeseries/time_series_solutions.ipynb))
+    
+- Daniela Huppenkothen
+    - [Practical Machine Learning with SDSS Data](tutorials/daniela_machine_learning/SOSTAT2021_ML_Tutorial.ipynb) ([solutions](tutorials/daniela_machine_learning/SOSTAT2021_ML_Tutorial_SOLUTIONS.ipynb))
+    - [A Tutorial on Neural Networks](tutorials/daniela_neural_networks/SOSTAT2021_NN_Tutorial_SOLUTIONS.ipynb)
 
 # Execution of the tutorials
 
