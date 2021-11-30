@@ -20,6 +20,7 @@ School webpage: https://www.granadacongresos.com/sostat2021
 
 - Gwendolyn Eadie
     - [Sampling from distributions with R](tutorials/gwen_probability/sampling_from_distributions_with_R.ipynb)
+    - [Bayesian inference with candy](tutorials/gwen_probability/Bayesian_inference_with_candy.ipynb)
 
 - Željko Ivezić
     - [ZIlecture1: Gentle Introduction to Big Data in Astronomy and Basics](tutorials/zeljko/ZIlecture1.ipynb)
