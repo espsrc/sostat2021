@@ -96,6 +96,9 @@ At any moment, also after the school, you can still run the tutorials in [myBind
 
 [myBinder.org](https://mybinder.org) is a free and open organization providing free cloud resources. Therefore, the resources may be limited and the changes you make in the notebooks or the system are not persistent. Please, always keep a local copy of any file you want to keep, because Binder will automatically eliminate the virtual machine assigned to you after some time of inactivity.
 
+## 3. Deploy with Docker
+
+To deploy the same environment used in SOSTAT2021 you can create your own docker container following the instructions described[here](./deployment/).
 
 # Credits and acknowledgements
 
